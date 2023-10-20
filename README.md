@@ -1,2 +1,2 @@
 # My-Resume
-this is me hosting a second website
+hosting a second sample website
